@@ -1,3 +1,3 @@
-module Tempbucket
+class Tempbucket
   VERSION = "0.0.2"
 end

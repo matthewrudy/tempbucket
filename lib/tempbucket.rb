@@ -1,6 +1,6 @@
 require "tempbucket/version"
 require "fog"
-require "secure_random"
+require "securerandom"
 
 class Tempbucket
   def write(file)
